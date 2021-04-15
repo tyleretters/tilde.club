@@ -10,7 +10,6 @@ projects:
 => ./img/albumart-500x500.jpg albumart-500x500.jpg
 => https://stuxnet.bandcamp.com stuxnet.bandcamp.com
 
-```
 name of code set: MATRYOSHKA (demo)
 date created: Apr-11-2021
 date exported: Apr-11-2021
@@ -121,5 +120,4 @@ pz4s-vbwk
 83pc-gwh8
 hjn9-g4st
 jfdz-3qcb
-```
 HEREDOC
