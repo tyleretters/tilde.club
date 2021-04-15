@@ -1,0 +1,125 @@
+#!/bin/sh
+printf "20 text/gemini\r\n"
+cat <<HEREDOC
+friends:
+=> gemini://tilde.club/~license gemini://tilde.club/~license
+=> gemini://nnnnnnnn.co gemini://nnnnnnnn.co
+=> gemini://tilde.club/~fourhoarder gemini://tilde.club/~fourhoarder
+
+projects:
+=> ./img/albumart-500x500.jpg albumart-500x500.jpg
+=> https://stuxnet.bandcamp.com stuxnet.bandcamp.com
+
+```
+name of code set: MATRYOSHKA (demo)
+date created: Apr-11-2021
+date exported: Apr-11-2021
+album: MATRYOSHKA (demo)
+quantity created: 100
+
+send your fans here to redeem their codes: 
+    https://intertext.bandcamp.com/yum
+
+code
+7xtl-js3x
+xczq-kdcq
+hp26-ghst
+qflk-3jcb
+9wct-hksw
+3hj2-vyxs
+wqbw-krmd
+c8x4-64kc
+sucq-ymtx
+swj7-b6rq
+ssgx-w6hz
+kjts-cvrc
+ugnp-wycx
+xtdg-wrlp
+4zqz-csv2
+q38n-xdtc
+bxzx-jd3x
+w4tj-kccq
+cpu8-gxst
+p7wt-3vcb
+8why-x9sw
+2sen-j8xs
+uqhn-wltm
+xgcx-ha36
+qkhh-vbdk
+9nqs-gw48
+zw8s-3xe2
+yjzc-wqrc
+392q-c8cx
+wtl9-w2lp
+skpk-cdv2
+p39u-xctc
+rdyd-jc3x
+hljr-3kbq
+hcgw-w94z
+qhu4-h8jg
+94wq-5293
+zsh6-bdk4
+3jcu-whtm
+w9sd-he36
+et4s-v3dk
+8upc-ys48
+tw94-b4e2
+tpt4-wmrc
+6l4k-hzcw
+ucpu-vgls
+lj7d-6bvd
+49ws-kxzc
+42he-gvyx
+cxef-b9bq
+cc6l-wz4z
+es3h-htjg
+84xj-5b93
+tc48-bck4
+2ps2-wxtm
+jn93-hwyc
+7wtl-js2x
+lhzq-kdsq
+4q26-glct
+qrlk-3jsb
+gxct-h6cw
+3cj2-vyls
+wpbw-63vd
+s9x4-64zc
+s3cq-yqyx
+6ujh-gdh8
+klgh-3hp2
+kets-cjbc
+n6np-wysx
+lzdg-c3xp
+4tqz-csm2
+eu8n-xsyc
+bwzx-jd2x
+wstj-kcsq
+squ8-ghct
+pbwt-3vsb
+6hxe-e363
+k4c9-bsz4
+uphn-w4ym
+l6cx-ha26
+qyhh-v2wk
+92qs-gch8
+yx8s-3xp2
+yezc-cvbc
+382q-c8sx
+dzl9-wrxp
+sypk-cdm2
+h6lh-klkc
+hncp-gjtx
+hdjr-3krq
+4hgw-ckhz
+qcu4-h8qg
+9swq-5r63
+y4h6-bdz4
+3ecu-wlym
+w8sd-he26
+pz4s-vbwk
+83pc-gwh8
+hjn9-g4st
+jfdz-3qcb
+```
+HEREDOC
