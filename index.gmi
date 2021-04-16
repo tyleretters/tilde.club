@@ -8,6 +8,15 @@
 => https://stuxnet.me stuxnet.me
 => https://nor.the-rn.info nor.the-rn.info
 
+# GEMINI DEPLOY SCRIPT:
+```
+#!/bin/bash
+rm -rf public_gemini
+git clone https://github.com/tyleretters/tilde.club.git public_gemini
+chmod 755 -R public_gemini/*
+chmod 644 public_gemini/index.gmi
+```
+
 # STUXNET DOWNLOAD CODES:
 
 ```
