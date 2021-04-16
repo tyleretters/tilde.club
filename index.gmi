@@ -1,22 +1,23 @@
-#!/bin/sh
-printf "20 text/gemini\r\n"
-cat <<HEREDOC
-friends:
+# FRIENDS:
 => gemini://tilde.club/~license gemini://tilde.club/~license
 => gemini://nnnnnnnn.co gemini://nnnnnnnn.co
 => gemini://tilde.club/~fourhoarder gemini://tilde.club/~fourhoarder
 
-projects:
-=> ./img/albumart-500x500.jpg albumart-500x500.jpg
-=> https://stuxnet.bandcamp.com stuxnet.bandcamp.com
+# PROJECTS:
+=> ./img/albumart.jpg albumart.jpg
+=> https://stuxnet.me stuxnet.me
+=> https://nor.the-rn.info nor.the-rn.info
 
+# STUXNET DOWNLOAD CODES:
+
+```
 name of code set: MATRYOSHKA (demo)
 date created: Apr-11-2021
 date exported: Apr-11-2021
 album: MATRYOSHKA (demo)
 quantity created: 100
 
-send your fans here to redeem their codes: 
+send your fans here to redeem their codes:
     https://intertext.bandcamp.com/yum
 
 code
@@ -120,4 +121,4 @@ pz4s-vbwk
 83pc-gwh8
 hjn9-g4st
 jfdz-3qcb
-HEREDOC
+```
