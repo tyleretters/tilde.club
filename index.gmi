@@ -1,3 +1,5 @@
+# TYLER ETTERS / STUXNET / NORTHERN INFORMATION
+
 # FRIENDS:
 => gemini://tilde.club/~license gemini://tilde.club/~license
 => gemini://nnnnnnnn.co gemini://nnnnnnnn.co
@@ -27,6 +29,7 @@ rm -rf public_gemini
 git clone https://github.com/tyleretters/tilde.club.git public_gemini
 chmod 755 -R public_gemini/*
 chmod 644 public_gemini/index.gmi
+chmod 644 public_gemini/img/*
 ```
 
 # STUXNET DOWNLOAD CODES:
