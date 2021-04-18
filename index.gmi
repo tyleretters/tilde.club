@@ -8,6 +8,18 @@
 => https://stuxnet.me stuxnet.me
 => https://nor.the-rn.info nor.the-rn.info
 
+# TIME'S FIREWALL
+
+At the behest of an anonymous agent, the Northern Information Applied Sciences & Phantasms Working Division agreed to the impossible: rationalize the numogram for the post-pandemic age.
+
+It is accepted that the numogram first manifested in the 90s via research from the CCRU. However, newly unearthed forensic evidence from The tf.nist.gov Timeserver Incident has cast a shadow of doubt on the true provenance.
+
+After the NIAS&PWD design scientist rationalized the numogram into a mathematically pure vector format, new sonic pathways were unlocked for STUXNET. The dossier was delivered and lead to yet more revelations: the existence of what can only be described as a time firewall. And, perhaps more unsettling, "fractal edges" thereby calling into question the very foundations of topology, Euclidean space, and recursion dynamics.
+
+Intertext formally published a request for support in understanding the implications of these twin entities on April 18, 2021.
+
+Operator instructions: `mv numogram.txt numogram.ai`
+
 # GEMINI DEPLOY SCRIPT:
 ```
 #!/bin/bash
@@ -20,114 +32,114 @@ chmod 644 public_gemini/index.gmi
 # STUXNET DOWNLOAD CODES:
 
 ```
-name of code set: MATRYOSHKA (demo)
-date created: Apr-11-2021
-date exported: Apr-11-2021
-album: MATRYOSHKA (demo)
+name of code set: TIME'S FIREWALL (demo)
+date created: Apr-18-2021
+date exported: Apr-18-2021
+album: TIME'S FIREWALL (demo)
 quantity created: 100
 
-send your fans here to redeem their codes:
+send your fans here to redeem their codes: 
     https://intertext.bandcamp.com/yum
 
 code
-7xtl-js3x
-xczq-kdcq
-hp26-ghst
-qflk-3jcb
-9wct-hksw
-3hj2-vyxs
-wqbw-krmd
-c8x4-64kc
-sucq-ymtx
-swj7-b6rq
-ssgx-w6hz
-kjts-cvrc
-ugnp-wycx
-xtdg-wrlp
-4zqz-csv2
-q38n-xdtc
-bxzx-jd3x
-w4tj-kccq
-cpu8-gxst
-p7wt-3vcb
-8why-x9sw
-2sen-j8xs
-uqhn-wltm
-xgcx-ha36
-qkhh-vbdk
-9nqs-gw48
-zw8s-3xe2
-yjzc-wqrc
-392q-c8cx
-wtl9-w2lp
-skpk-cdv2
-p39u-xctc
-rdyd-jc3x
-hljr-3kbq
-hcgw-w94z
-qhu4-h8jg
-94wq-5293
-zsh6-bdk4
-3jcu-whtm
-w9sd-he36
-et4s-v3dk
-8upc-ys48
-tw94-b4e2
-tpt4-wmrc
-6l4k-hzcw
-ucpu-vgls
-lj7d-6bvd
-49ws-kxzc
-42he-gvyx
-cxef-b9bq
-cc6l-wz4z
-es3h-htjg
-84xj-5b93
-tc48-bck4
-2ps2-wxtm
-jn93-hwyc
-7wtl-js2x
-lhzq-kdsq
-4q26-glct
-qrlk-3jsb
-gxct-h6cw
-3cj2-vyls
-wpbw-63vd
-s9x4-64zc
-s3cq-yqyx
-6ujh-gdh8
-klgh-3hp2
-kets-cjbc
-n6np-wysx
-lzdg-c3xp
-4tqz-csm2
-eu8n-xsyc
-bwzx-jd2x
-wstj-kcsq
-squ8-ghct
-pbwt-3vsb
-6hxe-e363
-k4c9-bsz4
-uphn-w4ym
-l6cx-ha26
-qyhh-v2wk
-92qs-gch8
-yx8s-3xp2
-yezc-cvbc
-382q-c8sx
-dzl9-wrxp
-sypk-cdm2
-h6lh-klkc
-hncp-gjtx
-hdjr-3krq
-4hgw-ckhz
-qcu4-h8qg
-9swq-5r63
-y4h6-bdz4
-3ecu-wlym
-w8sd-he26
-pz4s-vbwk
-83pc-gwh8
-hjn9-g4st
-jfdz-3qcb
+rc5j-vbj2
+asr8-gw9c
+hz4a-w5jy
+j3pb-xrtr
+9x9l-esul
+n4t4-udaj
+lpnj-el3y
+e6d6-3ecf
+g3ht-cusa
+3de2-x5hb
+aq6w-vrpw
+rg34-6sus
+hvhf-vtdz
+jfex-g2xg
+6d7h-uhm3
+zhms-ev8s
+nqrp-3ybl
+l8lb-wf4j
+cksm-cpjy
+e3qf-x2tr
+gd8x-edul
+24zh-ucaj
+de3p-eh3y
+jxud-xyhp
+745e-vrq2
+vs79-gs6c
+fjwn-3l8x
+lbhv-hm3q
+4ac7-vgdz
+e7pd-gbxg
+gwfs-uxm3
+ysac-5q8s
+2qfq-b8bl
+dgdf-wn4j
+vj9x-j2ew
+792h-kcns
+x2xp-gh5l
+4ve8-3v2e
+4b63-ckwu
+qd3l-h8hp
+b4vq-v2q2
+5cb6-gd6c
+rjxu-3h8x
+df4a-hj3q
+s5sr-vydz
+uhzc-7w5j
+xq2q-e42y
+j8l9-3asf
+9usk-cnca
+nwqu-xe4b
+mpgd-jbew
+b9us-kwns
+w3we-gx5l
+svj9-bq2e
+sfgn-w9wu
+pdux-hthp
+ujbj-3grl
+x9dr-c7hj
+ht4a-w5qy
+qupb-h3yr
+9w9l-esnl
+nst4-us5j
+wqnj-el2y
+egd6-3esf
+8uht-c7ca
+2le2-x54b
+ap6w-j3ew
+x7cm-hq2q
+h5hf-v8wz
+jrex-g2lg
+9l7h-ulv3
+zcms-ejgs
+nprp-3yrl
+w9lb-cuhj
+cysm-cpqy
+puqf-xryr
+8l8x-ednl
+2szh-ud5j
+h7g2-c6du
+jwud-xy4p
+7s5e-j3j2
+m479-gs9c
+fewn-34gx
+w7hv-hm2q
+cmc7-vtwz
+ebpd-gblg
+8xfs-uhv3
+t4ac-evgs
+2pfq-b8rl
+uxpn-xphb
+ve9x-j2pw
+782h-kdus
+lnxp-ghal
+45e8-3j3e
+c763-ckdu
+el3l-h84p
+bsvq-vrj2
+ahb6-gd9c
+rexu-3lgx
+dr4a-hj2q
 ```
