@@ -10,17 +10,121 @@
 => https://stuxnet.me stuxnet.me
 => https://nor.the-rn.info nor.the-rn.info
 
-# TIME'S FIREWALL
+# COUNTERSURVEILLANCE
 
-At the behest of an anonymous agent, the Northern Information Applied Sciences & Phantasms Working Division agreed to the impossible: rationalize the numogram for the post-pandemic age.
+name of code set: COUNTERSURVEILLANCE
+date created: Jul-11-2021
+date exported: Jul-11-2021
+album: COUNTERSURVEILLANCE
+quantity created: 100
+quantity redeemed to date: 0
 
-It is accepted that the numogram first manifested in the 90s via research from the CCRU. However, newly unearthed forensic evidence from The tf.nist.gov Timeserver Incident has cast a shadow of doubt on the true provenance.
+send your fans here to redeem their codes: 
+    https://intertext.bandcamp.com/yum
 
-After the NIAS&PWD design scientist rationalized the numogram into a mathematically pure vector format, new sonic pathways were unlocked for STUXNET. The dossier was delivered and lead to yet more revelations: the existence of what can only be described as a time firewall. And, perhaps more unsettling, "fractal edges" thereby calling into question the very foundations of topology, Euclidean space, and recursion dynamics.
-
-Intertext formally published a request for support in understanding the implications of these twin entities on April 18, 2021.
-
-Operator instructions: `mv numogram.txt numogram.ai`
+code
+```
+g4gk-38rl
+3c22-hfhj
+djla-vaqy
+p9sg-62yr
+8243-yhnl
+jvp9-gcyg
+6b9n-3x2u
+kd2x-xqsq
+nqvp-j8ct
+mgb8-y24b
+gkx3-bljw
+3ne5-xjts
+wa6f-jg3l
+s6yl-y3lj
+s3uj-7xvy
+pdm8-eqgr
+6udp-3nqa
+uwqg-cm6b
+vp83-wg8x
+f9nl-hbuq
+l3dq-vwmz
+evq6-gwyg
+gfg2-b42u
+ydud-xmsq
+2j5e-jtct
+ag7g-yb4b
+8twn-bhjw
+j9h9-k3tr
+63cu-gxul
+udpd-7qaj
+lq9s-v93y
+qg2c-gthf
+gule-37qa
+3lp9-cj6b
+5p9n-wy8x
+r62x-h3uq
+d3xp-jsmz
+pae8-ysyg
+hnue-7lmy
+jw5g-5j8r
+9h6z-bgbl
+n43n-xu4j
+lpxv-j5jy
+e648-6rtr
+gns2-y4ul
+3dqw-7maj
+dj8c-vz3y
+pgn4-gghf
+82dq-3uqa
+v9f6-g3hb
+6yw2-b4qw
+nuja-xqys
+lmgb-jt2l
+48kw-y2xj
+cu3q-7hmy
+ewv9-5v8r
+gsgk-bybl
+2h22-hf4j
+dela-vpjy
+p8sg-62tr
+xnle-vdvz
+j5p9-gctg
+979n-3h3u
+zl2x-hvcq
+npvp-j8st
+56b8-yrhb
+gyx3-blqw
+32e5-xmys
+dm6f-jg2l
+sgyl-ybxj
+xj6h-jk2y
+j9ns-g84f
+63dp-3fja
+nxqg-cm9b
+mq83-wtgx
+f8nl-hbnq
+wudq-vcvz
+e5q6-gwtg
+gr8u-3x3u
+tlud-xqcq
+2e5e-jtst
+uhu3-xnhj
+xqwm-jeqy
+j8h9-kbyr
+9ucu-gxnl
+nwjx-uv5j
+lp9s-v92y
+e62c-gt4f
+g3le-3nja
+3dp9-cj9b
+aq9n-wggx
+rg2x-h3nq
+xv97-vy3l
+h9yd-yrlj
+h2ue-74vy
+qx5g-5mgr
+9c6z-bgrl
+ns3n-x7hj
+wqxv-j5qy
+egc6-k3yr
+```
 
 # GEMINI DEPLOY SCRIPT:
 ```
