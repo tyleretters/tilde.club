@@ -10,245 +10,118 @@
 => https://stuxnet.me stuxnet.me
 => https://nor.the-rn.info nor.the-rn.info
 
-# COUNTERSURVEILLANCE
+# HUMAN INTERFERENCE TASK FORCE
 
-name of code set: COUNTERSURVEILLANCE
-date created: Jul-11-2021
-date exported: Jul-11-2021
-album: COUNTERSURVEILLANCE
+```
+name of code set: HUMAN INTERFERENCE TASK FORCE
+date created: Jul-30-2021
+date exported: Jul-30-2021
+album: HUMAN INTERFERENCE TASK FORCE
 quantity created: 100
 quantity redeemed to date: 0
 
-send your fans here to redeem their codes: 
+send your fans here to redeem their codes:
     https://intertext.bandcamp.com/yum
 
 code
-```
-g4gk-38rl
-3c22-hfhj
-djla-vaqy
-p9sg-62yr
-8243-yhnl
-jvp9-gcyg
-6b9n-3x2u
-kd2x-xqsq
-nqvp-j8ct
-mgb8-y24b
-gkx3-bljw
-3ne5-xjts
-wa6f-jg3l
-s6yl-y3lj
-s3uj-7xvy
-pdm8-eqgr
-6udp-3nqa
-uwqg-cm6b
-vp83-wg8x
-f9nl-hbuq
-l3dq-vwmz
-evq6-gwyg
-gfg2-b42u
-ydud-xmsq
-2j5e-jtct
-ag7g-yb4b
-8twn-bhjw
-j9h9-k3tr
-63cu-gxul
-udpd-7qaj
-lq9s-v93y
-qg2c-gthf
-gule-37qa
-3lp9-cj6b
-5p9n-wy8x
-r62x-h3uq
-d3xp-jsmz
-pae8-ysyg
-hnue-7lmy
-jw5g-5j8r
-9h6z-bgbl
-n43n-xu4j
-lpxv-j5jy
-e648-6rtr
-gns2-y4ul
-3dqw-7maj
-dj8c-vz3y
-pgn4-gghf
-82dq-3uqa
-v9f6-g3hb
-6yw2-b4qw
-nuja-xqys
-lmgb-jt2l
-48kw-y2xj
-cu3q-7hmy
-ewv9-5v8r
-gsgk-bybl
-2h22-hf4j
-dela-vpjy
-p8sg-62tr
-xnle-vdvz
-j5p9-gctg
-979n-3h3u
-zl2x-hvcq
-npvp-j8st
-56b8-yrhb
-gyx3-blqw
-32e5-xmys
-dm6f-jg2l
-sgyl-ybxj
-xj6h-jk2y
-j9ns-g84f
-63dp-3fja
-nxqg-cm9b
-mq83-wtgx
-f8nl-hbnq
-wudq-vcvz
-e5q6-gwtg
-gr8u-3x3u
-tlud-xqcq
-2e5e-jtst
-uhu3-xnhj
-xqwm-jeqy
-j8h9-kbyr
-9ucu-gxnl
-nwjx-uv5j
-lp9s-v92y
-e62c-gt4f
-g3le-3nja
-3dp9-cj9b
-aq9n-wggx
-rg2x-h3nq
-xv97-vy3l
-h9yd-yrlj
-h2ue-74vy
-qx5g-5mgr
-9c6z-bgrl
-ns3n-x7hj
-wqxv-j5qy
-egc6-k3yr
-```
-
-# GEMINI DEPLOY SCRIPT:
-```
-#!/bin/bash
-rm -rf public_gemini
-git clone https://github.com/tyleretters/tilde.club.git public_gemini
-chmod 755 -R public_gemini/*
-chmod 644 public_gemini/index.gmi
-chmod 644 public_gemini/img/*
-```
-
-# STUXNET DOWNLOAD CODES:
-
-```
-name of code set: LONG LIVE THE LOST ONES
-date created: May-02-2021
-date exported: May-02-2021
-album: LONG LIVE THE LOST ONES
-quantity created: 100
-quantity redeemed to date: 0
-
-send your fans here to redeem their codes: 
-    https://intertext.bandcamp.com/yum
-
-code
-r7s2-ucjl
-dw4w-jx8e
-sppc-k5bu
-7lm4-x4d9
-vc8j-epwt
-9jn7-32db
-zfwa-clxw
-nah8-xees
-w6e3-e3rd
-cy7w-uwhh
-c254-v4p5
-sl6j-gp3r
-pcy7-3ndl
-rs2a-cmxe
-6qfr-wgnw
-ubdw-c3q4
-lv4e-xw6a
-49pf-5s87
-q2fx-bsbv
-bxah-xld9
-5c6p-eawt
-gp3r-3bdb
-tfx5-chxw
-25cg-x5es
-77hn-usql
-xlcx-j4ge
-hpjh-karu
-q7fs-gnwq
-flds-3jlt
-msqe-c65b
-gjrb-wynw
-3bll-wrq4
-wasj-hs6a
-s9q7-5d87
-p3bd-bdbv
-hx6p-ye2r
-j4yb-b7wl
-7su5-wvle
-lhw9-hy53
-qehk-er7s
-frcu-udql
-wxsd-jlge
-ceqs-keru
-errc-g7wq
-rllc-3vlt
-acpq-ck5b
-k7lv-c4lw
-ums6-xaps
-x8j2-e2bd
-4kbd-uc4h
-43vc-jhe5
-4dge-y52r
-e4kf-buwl
-bc3v-cqle
-dhx6-x853
-pq4t-e27s
-rbs2-ucql
-h6qb-ecg7
-jnrw-3wrv
-7dm4-hxw9
-mh8j-epdt
-9en7-3rwb
-zrwa-cllw
-3mh8-xeps
-wge3-ebbd
-sk7w-uw4h
-sn54-jxe5
-sd6j-gp2r
-7xwh-3qxt
-v4pp-czab
-6pfr-wtuw
-n7dw-cbj4
-l54e-xw9a
-48pf-ewg7
-enfx-bsrv
-bwah-x4w9
-ah6p-eadt
-8q3r-32wb
-trx5-chlw
-jjcy-53fs
-7bhn-7wjl
-xdcx-j48e
-4qjh-kpbu
-qbfs-gndq
-fdds-3mxt
-54qe-c6ab
-gerb-wguw
-27ll-c3j4
-dmsj-hs9a
-s8q7-5sg7
-hu5s-jlp5
-hw6p-ya3r
-jsyb-b7dl
-f4u5-wjxe
-lcw9-hya3
-ejhk-erfs
-bfcu-usjl
-wwsd-jl8e
-sjqs-kabu
-pfrc-g7dq
-
+hnzs-xlll
+hwte-ea5e
+4hzg-3b23
+q42z-cx44
+fslz-x5ea
+whsk-vrrb
+eeh2-6shx
+brcd-klap
+dlhc-6m32
+peec-y6dh
+khjq-hhwy
+kqbf-55cr
+k8xx-3rsd
+nk4p-h4hc
+lzpr-5apw
+4t9w-b23s
+cutc-xhll
+cwzq-ee5e
+cst9-3323
+p4nk-w444
+rcwt-hpea
+777r-w29h
+xlww-cd6v
+hpje-xct9
+q7bf-ec3z
+9wxl-3wd6
+zsej-hxwy
+yjrr-epcr
+ygld-32sd
+3tse-hlhc
+dzqb-5epw
+sy8l-bb3s
+xx44-kv22
+jqph-gkwh
+7r7s-b9l5
+lxws-wzqr
+qeje-ct6d
+frbb-wb9h
+wlxl-cc6v
+ceeq-xwt9
+p777-ew3z
+8lld-bsd6
+tcpp-x4wy
+jhny-clh4
+74dy-xepa
+xs4z-jbbb
+qjsn-kw4x
+fb4x-6x5p
+ldcs-6q22
+eqjs-y9wh
+bbbc-bzl5
+dxxc-w6qr
+pqeq-cg6d
+rr7f-w39h
+xke7-e5ew
+hz8d-br2s
+h2zs-x4xl
+4xte-eaae
+4czg-3233
+qs2z-chh4
+b4lz-x5pa
+wcsk-j3bb
+pjh2-6s4x
+rfcd-k45p
+ddhc-6m22
+6xww-3dw6
+kcjq-hhdy
+kpbf-55sr
+z9xx-b3cd
+ny4p-h44c
+ltpr-5pew
+cz9w-b22s
+c3tc-xlxl
+sxzq-eeae
+s4t9-3b33
+psnk-cxh4
+jjep-c89d
+7b7r-wr6h
+xdww-cd9v
+4qje-xdy9
+qbbf-ec2z
+gxxl-3cw6
+y4ej-hxdy
+yerr-epsr
+t6ld-3rcd
+2zse-hl4c
+dtqb-5aew
+77sl-6hap
+xw44-kj32
+jpph-gkdh
+fffh-3kx5
+lwws-w9jr
+ejje-ct9d
+bfbb-w26h
+wdxl-cc9v
+sjeq-xcy9
+pb77-ew2z
+8dwx-3ww6
+hht8-3r23
+jcny-cl44
 ```
